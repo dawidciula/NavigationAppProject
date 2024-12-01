@@ -1,0 +1,16 @@
+# Ignorowanie folderu node_modules
+node_modules/
+
+# Ignorowanie plików konfiguracyjnych IDE (np. VSCode)
+.vscode/
+.idea/
+
+# Ignorowanie plików logów
+*.log
+
+# Ignorowanie plików build i dist
+/build
+/dist
+
+# Inne zbędne pliki, np. zależności systemowe
+.DS_Store   # Dla macOS
